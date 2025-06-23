@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "Depot" }, "geometry": { "type": "Point", "coordinates": [ [88699, 432820] ] } },
+{ "type": "Feature", "properties": { "ID": "NL01" }, "geometry": { "type": "Point", "coordinates": [ 5.514494750481717, 52.108202759206129 ] } }
+]
+}

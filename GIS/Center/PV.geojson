@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "PV",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "Depot" }, "geometry": { "type": "Point", "coordinates": [ [88699, 432820] ] } },
+{ "type": "Feature", "properties": { "ID": "PV20" }, "geometry": { "type": "Point", "coordinates": [ 255404.159182035306003, 575011.271500000962988 ] } },
+{ "type": "Feature", "properties": { "ID": "PV21" }, "geometry": { "type": "Point", "coordinates": [ 184859.125756800494855, 569149.587500000488944 ] } },
+{ "type": "Feature", "properties": { "ID": "PV22" }, "geometry": { "type": "Point", "coordinates": [ 242358.203220203868113, 547176.769249999430031 ] } },
+{ "type": "Feature", "properties": { "ID": "PV23" }, "geometry": { "type": "Point", "coordinates": [ 222620.034739162016194, 500409.524499999475665 ] } },
+{ "type": "Feature", "properties": { "ID": "PV24" }, "geometry": { "type": "Point", "coordinates": [ 173114.265197298722342, 506832.989349999988917 ] } },
+{ "type": "Feature", "properties": { "ID": "PV25" }, "geometry": { "type": "Point", "coordinates": [ 203938.857607205223758, 460040.228299999958836 ] } },
+{ "type": "Feature", "properties": { "ID": "PV26" }, "geometry": { "type": "Point", "coordinates": [ 138259.661968063359382, 454753.436799998977222 ] } },
+{ "type": "Feature", "properties": { "ID": "PV27" }, "geometry": { "type": "Point", "coordinates": [ 116562.947170462022768, 510635.332250001025386 ] } },
+{ "type": "Feature", "properties": { "ID": "PV28" }, "geometry": { "type": "Point", "coordinates": [ 91612.960294267075369, 445263.446399999491405 ] } },
+{ "type": "Feature", "properties": { "ID": "PV29" }, "geometry": { "type": "Point", "coordinates": [ 50752.75419517159753, 369691.589999999967404 ] } },
+{ "type": "Feature", "properties": { "ID": "PV30" }, "geometry": { "type": "Point", "coordinates": [ 130559.972795687790494, 392658.353149999049492 ] } },
+{ "type": "Feature", "properties": { "ID": "PV31" }, "geometry": { "type": "Point", "coordinates": [ 188433.460319360572612, 363965.61565 ] } }
+]
+}

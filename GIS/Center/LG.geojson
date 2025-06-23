@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "LG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "Depot" }, "geometry": { "type": "Point", "coordinates": [ [88699, 432820] ] } },
+{ "type": "Feature", "properties": { "ID": "LG01" }, "geometry": { "type": "Point", "coordinates": [ 178668.248365325387567, 590313.976000000024214 ] } },
+{ "type": "Feature", "properties": { "ID": "LG02" }, "geometry": { "type": "Point", "coordinates": [ 253510.89415091346018, 561512.455499998992309 ] } },
+{ "type": "Feature", "properties": { "ID": "LG03" }, "geometry": { "type": "Point", "coordinates": [ 186968.823157465551049, 544356.62300000153482 ] } },
+{ "type": "Feature", "properties": { "ID": "LG04" }, "geometry": { "type": "Point", "coordinates": [ 233662.393132513388991, 480864.057600000989623 ] } },
+{ "type": "Feature", "properties": { "ID": "LG05" }, "geometry": { "type": "Point", "coordinates": [ 177456.822225826967042, 471684.373999999952503 ] } },
+{ "type": "Feature", "properties": { "ID": "LG06" }, "geometry": { "type": "Point", "coordinates": [ 173114.265197298722342, 506832.989349999988917 ] } },
+{ "type": "Feature", "properties": { "ID": "LG07" }, "geometry": { "type": "Point", "coordinates": [ 104382.044409066700609, 488481.665850000455976 ] } },
+{ "type": "Feature", "properties": { "ID": "LG08" }, "geometry": { "type": "Point", "coordinates": [ 121553.462816938001197, 501491.168199999490753 ] } },
+{ "type": "Feature", "properties": { "ID": "LG09" }, "geometry": { "type": "Point", "coordinates": [ 118778.849732948874589, 455389.904450001486111 ] } },
+{ "type": "Feature", "properties": { "ID": "LG10" }, "geometry": { "type": "Point", "coordinates": [ 150194.958070097840391, 433676.823000001022592 ] } },
+{ "type": "Feature", "properties": { "ID": "LG11" }, "geometry": { "type": "Point", "coordinates": [ 50752.75419517159753, 369691.589999999967404 ] } },
+{ "type": "Feature", "properties": { "ID": "LG12" }, "geometry": { "type": "Point", "coordinates": [ 92650.155301200182294, 390296.610999999451451 ] } },
+{ "type": "Feature", "properties": { "ID": "LG13" }, "geometry": { "type": "Point", "coordinates": [ 173831.603673881327268, 382344.024500001512934 ] } },
+{ "type": "Feature", "properties": { "ID": "LG14" }, "geometry": { "type": "Point", "coordinates": [ 191441.844915188499726, 324836.589999999501742 ] } }
+]
+}
